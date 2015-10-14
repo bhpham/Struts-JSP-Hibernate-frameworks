@@ -1,0 +1,3 @@
+C\:/Users/Binh\ Pham/week3/ForumWebApplication/WebContent = ForumWebApplication.war
+C\:/Users/Binh\ Pham/week3/.metadata/.plugins/org.eclipse.core.resources/ForumWebApplication/build/weboutput = ForumWebApplication.war
+C\:/Users/Binh\ Pham/week3/ForumWebApplication/build/classes = ForumWebApplication.war/WEB-INF/classes

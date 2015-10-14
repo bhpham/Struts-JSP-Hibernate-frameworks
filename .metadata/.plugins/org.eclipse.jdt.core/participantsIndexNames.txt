@@ -1,0 +1,37 @@
+INDEX VERSION 1.126
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1715274388.index
+\StrutsValidatorFrameworkExample\src
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3746480369.index
+\ForumWebApplication\src
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\350975468.index
+\StrutsValidatorFrameworkExample\src
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\857284565.index
+\ForumApp\src
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1877516578.index
+\StrutsTiles\src
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3978080.index
+\BankingApp\src
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4274301059.index
+\BankingApp\src
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2761783231.index
+\BankingWebApp\src
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\502082301.index
+\BankingWebApp\src
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3704541171.index
+\FirstStruts\src
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2075888790.index
+\StrutsTiles\src
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3384164800.index
+\BankingApp\src
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3860661283.index
+\ForumWebApplication\src
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2034703718.index
+\BankingAppWithStruts\src
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4043327306.index
+\FirstStruts\src
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\937883496.index
+\BankingAppWithStruts\src
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1858921726.index
+\StrutsValidatorFrameworkExample\src
+C:\Users\Binh Pham\week3\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\544255297.index
+\ForumApp\src

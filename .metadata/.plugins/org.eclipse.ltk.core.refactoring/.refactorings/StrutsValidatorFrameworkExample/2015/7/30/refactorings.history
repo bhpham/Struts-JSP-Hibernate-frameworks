@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;register.jsp&apos; to &apos;pages&apos;&#x0D;&#x0A;- Original project: &apos;StrutsValidatorFrameworkExample&apos;&#x0D;&#x0A;- Destination element: &apos;pages&apos;&#x0D;&#x0A;- Original element: &apos;register.jsp&apos;" description="Copy file" element1="WebContent/pages/register.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1437532554331" target="/BankingAppWithStruts/WebContent/pages" units="0" version="1.0"/>
+</session>
